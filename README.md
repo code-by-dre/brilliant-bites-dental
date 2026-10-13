@@ -3,7 +3,7 @@
 A responsive, professional static website for a dental clinic built with HTML, CSS, and JavaScript. The site provides patients with an intuitive interface to explore dental services, view clinic facilities, locate the practice, and get in touch.
 
 ## Live Preview & Demo
-- **Live Site:** `http://brilliantbitesdental.com` 
+- **Live Site:** `www.brilliantbitesdental.com/` 
 - **Repository:** `https://github.com/code-by-dre/brilliant-bites-dental`
 
 ---
